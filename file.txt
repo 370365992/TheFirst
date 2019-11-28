@@ -2,4 +2,6 @@ My naem
 is wangyu
 yeyeyeye
 
+<<<<<<< HEAD
 1111
+>>>>>>> 9565c9a1f053cbf9a795aa96cf3b0e1f88b11e45
